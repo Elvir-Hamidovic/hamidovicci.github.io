@@ -1,0 +1,42 @@
+html {
+  font-size: 20px; 
+  font-family: 'East Sea Dokdo', cursive;
+  background-color: #e8eaf6;
+  margin: 0;
+  padding: 20px 0;    
+  
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+
+}
+
+h2 {
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p, li {
+  font-size: 24px;    
+  line-height: 1,5;
+  letter-spacing: 2px;
+  text-shadow: 1px 1px 30px black;
+
+}
